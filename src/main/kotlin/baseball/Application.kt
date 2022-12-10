@@ -1,5 +1,7 @@
 package baseball
 
+import baseball.controller.BaseballActivity
+
 fun main() {
-    TODO("프로그램 구현")
+    BaseballActivity().baseballGameExecute()
 }
